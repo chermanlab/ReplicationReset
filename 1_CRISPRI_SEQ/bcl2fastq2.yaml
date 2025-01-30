@@ -1,0 +1,16 @@
+name: BCL2FASTQ2
+channels:
+  - bih-cubi
+  - conda-forge
+  - bioconda
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - bcl2fastq2=2.20.0.422=2
+  - libgcc=14.2.0=h77fa898_1
+  - libgomp=14.2.0=h77fa898_1
+  - libzlib=1.3.1=hb9d3cd8_2
+  - zlib=1.3.1=hb9d3cd8_2
+prefix: /home/mattlab/anaconda3/envs/BCL2FASTQ2
