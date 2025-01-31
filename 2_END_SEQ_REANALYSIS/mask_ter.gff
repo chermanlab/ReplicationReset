@@ -1,0 +1,151 @@
+##gff-version 3								
+#!gff-spec-version 1.21								
+#!processor NCBI annotwriter								
+#!genome-build ASM584v2								
+#!genome-build-accession NCBI_Assembly:GCF_000005845.2								
+##sequence-region NC_000913.3 1 4641652								
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=511145								
+NC_000913.3	RefSeq	gene	4035531	4040636	.	+	.	rrnA
+NC_000913.3	RefSeq	gene	4166659	4171756	.	+	.	rrnB
+NC_000913.3	RefSeq	gene	4208147	4213159	.	+	.	rrnE
+NC_000913.3	RefSeq	gene	223771	229004	.	+	.	rrnH
+NC_000913.3	RefSeq	gene	2726069	2731157	.	-	.	rrnG
+NC_000913.3	RefSeq	gene	3423423	3428762	.	-	.	rrnD
+NC_000913.3	RefSeq	gene	3941808	3947032	.	+	.	rrnC
+NC_000913.3	RefSeq	mobile_genetic_element	15387	16731	.	+	.	ID=id-NC_000913.3:15387..16731;gbkey=mobile_element;mobile_element_type=insertion sequence:IS186A
+NC_000913.3	RefSeq	mobile_genetic_element	19796	20563	.	-	.	ID=id-NC_000913.3:19796..20563;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1A
+NC_000913.3	RefSeq	mobile_genetic_element	257908	258675	.	-	.	ID=id-NC_000913.3:257908..258675;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1I
+NC_000913.3	RefSeq	mobile_genetic_element	270206	270540	.	+	.	ID=id-NC_000913.3:270206..270540;gbkey=mobile_element;mobile_element_type=insertion sequence:IS911A
+NC_000913.3	RefSeq	mobile_genetic_element	270541	271761	.	+	.	"ID=id-b4587-3;Dbxref=ASAP:ABE-0285253,ECOCYC:G6130,GeneID:5061501;gbkey=mobile_element;mobile_element_type=insertion sequence:IS30A;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	271762	272190	.	+	.	"ID=id-b4587-4;Dbxref=ASAP:ABE-0285253,ECOCYC:G6130,GeneID:5061501;gbkey=mobile_element;mobile_element_type=insertion sequence:IS911A-1;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	273955	275149	.	-	.	ID=id-NC_000913.3:273955..275149;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5A
+NC_000913.3	RefSeq	mobile_genetic_element	279163	279930	.	-	.	ID=id-NC_000913.3:279163..279930;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1B
+NC_000913.3	RefSeq	mobile_genetic_element	279931	280111	.	+	.	ID=id-NC_000913.3:279931..280111;gbkey=mobile_element;mobile_element_type=insertion sequence:IS30B
+NC_000913.3	RefSeq	mobile_genetic_element	280114	280425	.	-	.	ID=id-NC_000913.3:280114..280425;gbkey=mobile_element;mobile_element_type=insertion sequence:ISX
+NC_000913.3	RefSeq	mobile_genetic_element	290634	291401	.	-	.	ID=id-NC_000913.3:290634..291401;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1C
+NC_000913.3	RefSeq	mobile_genetic_element	315229	316483	.	+	.	ID=id-NC_000913.3:315229..316483;gbkey=mobile_element;mobile_element_type=insertion sequence:IS3A
+NC_000913.3	RefSeq	mobile_genetic_element	381260	382590	.	+	.	ID=id-NC_000913.3:381260..382590;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2A
+NC_000913.3	RefSeq	mobile_genetic_element	391709	392966	.	-	.	ID=id-NC_000913.3:391709..392966;gbkey=mobile_element;mobile_element_type=insertion sequence:IS3B
+NC_000913.3	RefSeq	mobile_genetic_element	566777	568034	.	+	.	"ID=id-b0542-3;Dbxref=ASAP:ABE-0001860,ECOCYC:G6298,GeneID:945024;gbkey=mobile_element;mobile_element_type=insertion sequence:IS3C;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	574591	575785	.	-	.	"ID=id-b0553-3;Dbxref=ASAP:ABE-0001888,ECOCYC:EG10659,GeneID:946786;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5B;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	608007	609351	.	+	.	ID=id-NC_000913.3:608007..609351;gbkey=mobile_element;mobile_element_type=insertion sequence:IS186B
+NC_000913.3	RefSeq	mobile_genetic_element	687851	689045	.	-	.	ID=id-NC_000913.3:687851..689045;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5D
+NC_000913.3	RefSeq	mobile_genetic_element	1049778	1050545	.	+	.	ID=id-NC_000913.3:1049778..1050545;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1D
+NC_000913.3	RefSeq	mobile_genetic_element	1094245	1095502	.	-	.	ID=id-NC_000913.3:1094245..1095502;gbkey=mobile_element;mobile_element_type=insertion sequence:IS3D
+NC_000913.3	RefSeq	mobile_genetic_element	1240188	1240289	.	+	.	ID=id-NC_000913.3:1240188..1240289;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1414 (partial)
+NC_000913.3	RefSeq	mobile_genetic_element	1294426	1295405	.	-	.	ID=id-NC_000913.3:1294426..1295405;gbkey=mobile_element;mobile_element_type=insertion sequence:ISZ
+NC_000913.3	RefSeq	mobile_genetic_element	1299499	1300693	.	+	.	ID=id-NC_000913.3:1299499..1300693;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5U
+NC_000913.3	RefSeq	mobile_genetic_element	1396044	1397238	.	+	.	ID=id-NC_000913.3:1396044..1397238;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5F
+NC_000913.3	RefSeq	mobile_genetic_element	1427599	1428794	.	-	.	ID=id-NC_000913.3:1427599..1428794;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5Y
+NC_000913.3	RefSeq	mobile_genetic_element	1469296	1470516	.	+	.	"ID=id-b4492-4;Dbxref=ASAP:ABE-0285093,ECOCYC:G6722,GeneID:2847750;gbkey=mobile_element;mobile_element_type=insertion sequence:IS30C;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	1467910	1469240	.	-	.	ID=id-NC_000913.3:1467910..1469240;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2D
+NC_000913.3	RefSeq	mobile_genetic_element	1503161	1504908	.	+	.	ID=id-NC_000913.3:1503161..1504908;gbkey=mobile_element;mobile_element_type=insertion sequence:IS609
+NC_000913.3	RefSeq	mobile_genetic_element	1650843	1651548	.	+	.	ID=id-NC_000913.3:1650843..1651548;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2E
+NC_000913.3	RefSeq	mobile_genetic_element	1978503	1979270	.	-	.	ID=id-NC_000913.3:1978503..1979270;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1H
+NC_000913.3	RefSeq	mobile_genetic_element	2066159	2067353	.	-	.	ID=id-NC_000913.3:2066159..2067353;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5H
+NC_000913.3	RefSeq	mobile_genetic_element	2068941	2070271	.	-	.	ID=id-NC_000913.3:2068941..2070271;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2F
+NC_000913.3	RefSeq	mobile_genetic_element	2101749	2102943	.	-	.	"ID=id-b4571-3;Dbxref=ASAP:ABE-0285104,ECOCYC:EG11986,GeneID:4056030;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5I;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	2170171	2171428	.	+	.	ID=id-NC_000913.3:2170171..2171428;gbkey=mobile_element;mobile_element_type=insertion sequence:IS3E
+NC_000913.3	RefSeq	mobile_genetic_element	2288919	2290113	.	-	.	"ID=id-b2190-3;Dbxref=ASAP:ABE-0007244,ECOCYC:EG12051,GeneID:946867;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5K;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	2514273	2515617	.	+	.	ID=id-NC_000913.3:2514273..2515617;gbkey=mobile_element;mobile_element_type=insertion sequence:IS186C
+NC_000913.3	RefSeq	mobile_genetic_element	2996361	2997691	.	-	.	ID=id-NC_000913.3:2996361..2997691;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2H
+NC_000913.3	RefSeq	mobile_genetic_element	3130146	3131340	.	+	.	ID=id-NC_000913.3:3130146..3131340;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5LO
+NC_000913.3	RefSeq	mobile_genetic_element	3186096	3187426	.	+	.	"ID=id-b3046-3;Dbxref=ASAP:ABE-0010001,ECOCYC:G7585,GeneID:947529;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2I;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	3365556	3366750	.	-	.	ID=id-NC_000913.3:3365556..3366750;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5R
+NC_000913.3	RefSeq	mobile_genetic_element	3583428	3584195	.	+	.	"ID=id-b3443-3;Dbxref=ASAP:ABE-0011246,ECOCYC:G7760,GeneID:947951;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1E;pseudo=true"
+NC_000913.3	RefSeq	mobile_genetic_element	3652036	3653230	.	-	.	ID=id-NC_000913.3:3652036..3653230;gbkey=mobile_element;mobile_element_type=insertion sequence:IS5T
+NC_000913.3	RefSeq	mobile_genetic_element	3720633	3722075	.	+	.	ID=id-NC_000913.3:3720633..3722075;gbkey=mobile_element;mobile_element_type=insertion sequence:IS150
+NC_000913.3	RefSeq	mobile_genetic_element	4498181	4499511	.	+	.	ID=id-NC_000913.3:4498181..4499511;gbkey=mobile_element;mobile_element_type=insertion sequence:IS2K
+NC_000913.3	RefSeq	mobile_genetic_element	4502090	4503515	.	-	.	ID=id-NC_000913.3:4502090..4503515;gbkey=mobile_element;mobile_element_type=insertion sequence:IS4
+NC_000913.3	RefSeq	mobile_genetic_element	4507125	4507458	.	+	.	ID=id-NC_000913.3:4507125..4507458;gbkey=mobile_element;mobile_element_type=insertion sequence:IS911B
+NC_000913.3	RefSeq	mobile_genetic_element	4507459	4508679	.	-	.	ID=id-NC_000913.3:4507459..4508679;gbkey=mobile_element;mobile_element_type=insertion sequence:IS30D
+NC_000913.3	RefSeq	mobile_genetic_element	4508680	4509006	.	-	.	ID=id-NC_000913.3:4508680..4509006;gbkey=mobile_element;mobile_element_type=insertion sequence:IS600
+NC_000913.3	RefSeq	mobile_genetic_element	4509007	4509801	.	+	.	ID=id-NC_000913.3:4509007..4509801;gbkey=mobile_element;mobile_element_type=insertion sequence:IS911B-1
+NC_000913.3	RefSeq	mobile_genetic_element	4518472	4519239	.	+	.	ID=id-NC_000913.3:4518472..4519239;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1F
+NC_000913.3	RefSeq	tRNA	225381	225457	.	+	.	"ID=rna-b0202;Parent=gene-b0202;Dbxref=ASAP:ABE-0000679,ECOCYC:EG30045,GeneID:944884;Note=tRNA-Ile(GAU);gbkey=tRNA;gene=ileV;locus_tag=b0202;product=tRNA-Ile"
+NC_000913.3	RefSeq	tRNA	225500	225575	.	+	.	"ID=rna-b0203;Parent=gene-b0203;Dbxref=ASAP:ABE-0000682,ECOCYC:EG30010,GeneID:944890;Note=tRNA-Ala(UGC);gbkey=tRNA;gene=alaV;locus_tag=b0203;product=tRNA-Ala"
+NC_000913.3	RefSeq	tRNA	228928	229004	.	+	.	"ID=rna-b0206;Parent=gene-b0206;Dbxref=ASAP:ABE-0000688,ECOCYC:EG30024,GeneID:944880;Note=tRNA-Asp(GUC);gbkey=tRNA;gene=aspU;locus_tag=b0206;product=tRNA-Asp"
+NC_000913.3	RefSeq	tRNA	236931	237007	.	+	.	"ID=rna-b0216;Parent=gene-b0216;Dbxref=ASAP:ABE-0000724,ECOCYC:EG30025,GeneID:947541;Note=tRNA-Asp(GUC);gbkey=tRNA;gene=aspV;locus_tag=b0216;product=tRNA-Asp"
+NC_000913.3	RefSeq	tRNA	262871	262946	.	+	.	"ID=rna-b0244;Parent=gene-b0244;Dbxref=ASAP:ABE-0000834,ECOCYC:EG30104,GeneID:947202;Note=tRNA-Thr(CGU);gbkey=tRNA;gene=thrW;locus_tag=b0244;product=tRNA-Thr"
+NC_000913.3	RefSeq	tRNA	564723	564799	.	+	.	"ID=rna-b0536;Parent=gene-b0536;Dbxref=ASAP:ABE-0001840,ECOCYC:EG30014,GeneID:945161;Note=tRNA-Arg(UCU);gbkey=tRNA;gene=argU;locus_tag=b0536;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	696430	696504	.	-	.	"ID=rna-b0664;Parent=gene-b0664;Dbxref=ASAP:ABE-0002272,ECOCYC:EG30031,GeneID:945257;Note=tRNA-Gln(CUG);gbkey=tRNA;gene=glnX;locus_tag=b0664;product=tRNA-Gln"
+NC_000913.3	RefSeq	tRNA	696542	696616	.	-	.	"ID=rna-b0665;Parent=gene-b0665;Dbxref=ASAP:ABE-0002274,ECOCYC:EG30029,GeneID:945255;Note=tRNA-Gln(CUG);gbkey=tRNA;gene=glnV;locus_tag=b0665;product=tRNA-Gln"
+NC_000913.3	RefSeq	tRNA	696664	696740	.	-	.	"ID=rna-b0666;Parent=gene-b0666;Dbxref=ASAP:ABE-0002276,ECOCYC:EG30059,GeneID:945262;Note=tRNA-Met(CAU);gbkey=tRNA;gene=metU;locus_tag=b0666;product=tRNA-Met"
+NC_000913.3	RefSeq	tRNA	696756	696830	.	-	.	"ID=rna-b0668;Parent=gene-b0668;Dbxref=ASAP:ABE-0002280,ECOCYC:EG30030,GeneID:945750;Note=tRNA-Gln(UUG);gbkey=tRNA;gene=glnW;locus_tag=b0668;product=tRNA-Gln"
+NC_000913.3	RefSeq	tRNA	696865	696939	.	-	.	"ID=rna-b0670;Parent=gene-b0670;Dbxref=ASAP:ABE-0002284,ECOCYC:EG30028,GeneID:945269;Note=tRNA-Gln(UUG);gbkey=tRNA;gene=glnU;locus_tag=b0670;product=tRNA-Gln"
+NC_000913.3	RefSeq	tRNA	696963	697047	.	-	.	"ID=rna-b0672;Parent=gene-b0672;Dbxref=ASAP:ABE-0002288,ECOCYC:EG30052,GeneID:945264;Note=tRNA-Leu(UAG);gbkey=tRNA;gene=leuW;locus_tag=b0672;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	697057	697133	.	-	.	"ID=rna-b0673;Parent=gene-b0673;Dbxref=ASAP:ABE-0002290,ECOCYC:EG30058,GeneID:945280;Note=tRNA-Met(CAU);gbkey=tRNA;gene=metT;locus_tag=b0673;product=tRNA-Met"
+NC_000913.3	RefSeq	tRNA	780554	780629	.	+	.	"ID=rna-b0743;Parent=gene-b0743;Dbxref=ASAP:ABE-0002525,ECOCYC:EG30055,GeneID:945336;Note=tRNA-Lys(UUU);gbkey=tRNA;gene=lysT;locus_tag=b0743;product=tRNA-Lys"
+NC_000913.3	RefSeq	tRNA	780765	780840	.	+	.	"ID=rna-b0744;Parent=gene-b0744;Dbxref=ASAP:ABE-0002527,ECOCYC:EG30109,GeneID:945331;Note=tRNA-Val(UAC);gbkey=tRNA;gene=valT;locus_tag=b0744;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	780843	780918	.	+	.	"ID=rna-b0745;Parent=gene-b0745;Dbxref=ASAP:ABE-0002529,ECOCYC:EG30057,GeneID:945338;Note=tRNA-Lys(UUU);gbkey=tRNA;gene=lysW;locus_tag=b0745;product=tRNA-Lys"
+NC_000913.3	RefSeq	tRNA	781068	781143	.	+	.	"ID=rna-b0746;Parent=gene-b0746;Dbxref=ASAP:ABE-0002531,ECOCYC:G6389,GeneID:945345;Note=tRNA-Val(UAC);gbkey=tRNA;gene=valZ;locus_tag=b0746;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	781147	781222	.	+	.	"ID=rna-b0747;Parent=gene-b0747;Dbxref=ASAP:ABE-0002533,ECOCYC:G6390,GeneID:945342;Note=tRNA-Lys(UUU);gbkey=tRNA;gene=lysY;locus_tag=b0747;product=tRNA-Lys"
+NC_000913.3	RefSeq	tRNA	781369	781444	.	+	.	"ID=rna-b0748;Parent=gene-b0748;Dbxref=ASAP:ABE-0002535,ECOCYC:G6391,GeneID:945352;Note=tRNA-Lys(UUU);gbkey=tRNA;gene=lysZ;locus_tag=b0748;product=tRNA-Lys"
+NC_000913.3	RefSeq	tRNA	781577	781652	.	+	.	"ID=rna-b0749;Parent=gene-b0749;Dbxref=ASAP:ABE-0002537,ECOCYC:G6392,GeneID:945353;Note=tRNA-Lys(UUU);gbkey=tRNA;gene=lysQ;locus_tag=b0749;product=tRNA-Lys"
+NC_000913.3	RefSeq	tRNA	925884	925971	.	-	.	"ID=rna-b0883;Parent=gene-b0883;Dbxref=ASAP:ABE-0003003,ECOCYC:EG30096,GeneID:945501;Note=tRNA-Ser(GGA);gbkey=tRNA;gene=serW;locus_tag=b0883;product=tRNA-Ser"
+NC_000913.3	RefSeq	tRNA	1031625	1031712	.	-	.	"ID=rna-b0971;Parent=gene-b0971;Dbxref=ASAP:ABE-0003283,ECOCYC:EG30093,GeneID:944826;Note=tRNA-Ser(UGA);gbkey=tRNA;gene=serT;locus_tag=b0971;product=tRNA-Ser"
+NC_000913.3	RefSeq	tRNA	1097565	1097652	.	-	.	"ID=rna-b1032;Parent=gene-b1032;Dbxref=ASAP:ABE-0003498,ECOCYC:EG30097,GeneID:945714;Note=tRNA-Ser(GGA);gbkey=tRNA;gene=serX;locus_tag=b1032;product=tRNA-Ser"
+NC_000913.3	RefSeq	tRNA	1287244	1287328	.	-	.	"ID=rna-b1230;Parent=gene-b1230;Dbxref=ASAP:ABE-0004134,ECOCYC:EG30108,GeneID:945811;Note=tRNA-Tyr(GUA);gbkey=tRNA;gene=tyrV;locus_tag=b1230;product=tRNA-Tyr"
+NC_000913.3	RefSeq	tRNA	1287538	1287622	.	-	.	"ID=rna-b1231;Parent=gene-b1231;Dbxref=ASAP:ABE-0004136,ECOCYC:EG30106,GeneID:945820;Note=tRNA-Tyr(GUA);gbkey=tRNA;gene=tyrT;locus_tag=b1231;product=tRNA-Tyr"
+NC_000913.3	RefSeq	tRNA	1746435	1746511	.	+	.	"ID=rna-b1665;Parent=gene-b1665;Dbxref=ASAP:ABE-0005567,ECOCYC:EG30111,GeneID:946170;Note=tRNA-Val(GAC);gbkey=tRNA;gene=valV;locus_tag=b1665;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	1746516	1746592	.	+	.	"ID=rna-b1666;Parent=gene-b1666;Dbxref=ASAP:ABE-0005569,ECOCYC:EG30112,GeneID:949069;Note=tRNA-Val(GAC);gbkey=tRNA;gene=valW;locus_tag=b1666;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	1991815	1991901	.	-	.	"ID=rna-b1909;Parent=gene-b1909;Dbxref=ASAP:ABE-0006361,ECOCYC:EG30054,GeneID:945662;Note=tRNA-Leu(UAA);gbkey=tRNA;gene=leuZ;locus_tag=b1909;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	1991914	1991987	.	-	.	"ID=rna-b1910;Parent=gene-b1910;Dbxref=ASAP:ABE-0006363,ECOCYC:G7991,GeneID:946414;Note=tRNA-Cys(GCA);gbkey=tRNA;gene=cysT;locus_tag=b1910;product=tRNA-Cys"
+NC_000913.3	RefSeq	tRNA	1992042	1992117	.	-	.	"ID=rna-b1911;Parent=gene-b1911;Dbxref=ASAP:ABE-0006365,ECOCYC:EG30039,GeneID:946416;Note=tRNA-Gly(GCC);gbkey=tRNA;gene=glyW;locus_tag=b1911;product=tRNA-Gly"
+NC_000913.3	RefSeq	tRNA	2043468	2043557	.	-	.	"ID=rna-b1975;Parent=gene-b1975;Dbxref=ASAP:ABE-0006554,ECOCYC:EG30094,GeneID:946492;Note=tRNA-Ser(CGA);gbkey=tRNA;gene=serU;locus_tag=b1975;product=tRNA-Ser"
+NC_000913.3	RefSeq	tRNA	2044549	2044624	.	+	.	"ID=rna-b1977;Parent=gene-b1977;Dbxref=ASAP:ABE-0006560,ECOCYC:EG30020,GeneID:946488;Note=tRNA-Asn(GUU);gbkey=tRNA;gene=asnT;locus_tag=b1977;product=tRNA-Asn"
+NC_000913.3	RefSeq	tRNA	2058027	2058102	.	-	.	"ID=rna-b1984;Parent=gene-b1984;Dbxref=ASAP:ABE-0006584,ECOCYC:G7069,GeneID:946494;Note=tRNA-Asn(GUU);gbkey=tRNA;gene=asnW;locus_tag=b1984;product=tRNA-Asn"
+NC_000913.3	RefSeq	tRNA	2059851	2059926	.	+	.	"ID=rna-b1986;Parent=gene-b1986;Dbxref=ASAP:ABE-0006588,ECOCYC:EG30021,GeneID:946503;Note=tRNA-Asn(GUU);gbkey=tRNA;gene=asnU;locus_tag=b1986;product=tRNA-Asn"
+NC_000913.3	RefSeq	tRNA	2062260	2062335	.	+	.	"ID=rna-b1989;Parent=gene-b1989;Dbxref=ASAP:ABE-0006605,ECOCYC:EG30022,GeneID:946509;Note=tRNA-Asn(GUU);gbkey=tRNA;gene=asnV;locus_tag=b1989;product=tRNA-Asn"
+NC_000913.3	RefSeq	tRNA	2286211	2286287	.	+	.	"ID=rna-b2189;Parent=gene-b2189;Dbxref=ASAP:ABE-0007242,ECOCYC:EG30067,GeneID:946320;Note=tRNA-Pro(GGG);gbkey=tRNA;gene=proL;locus_tag=b2189;product=tRNA-Pro"
+NC_000913.3	RefSeq	tRNA	2466309	2466383	.	+	.	"ID=rna-b2348;Parent=gene-b2348;Dbxref=ASAP:ABE-0007753,ECOCYC:EG30016,GeneID:945486;Note=tRNA-Arg(CCU);gbkey=tRNA;gene=argW;locus_tag=b2348;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	2518041	2518116	.	-	.	"ID=rna-b2396;Parent=gene-b2396;Dbxref=ASAP:ABE-0007902,ECOCYC:EG30012,GeneID:946859;Note=tRNA-Ala(GGC);gbkey=tRNA;gene=alaX;locus_tag=b2396;product=tRNA-Ala"
+NC_000913.3	RefSeq	tRNA	2518156	2518231	.	-	.	"ID=rna-b2397;Parent=gene-b2397;Dbxref=ASAP:ABE-0007904,ECOCYC:EG30011,GeneID:946860;Note=tRNA-Ala(GGC);gbkey=tRNA;gene=alaW;locus_tag=b2397;product=tRNA-Ala"
+NC_000913.3	RefSeq	tRNA	2520931	2521006	.	+	.	"ID=rna-b2401;Parent=gene-b2401;Dbxref=ASAP:ABE-0007914,ECOCYC:EG30110,GeneID:946824;Note=tRNA-Val(UAC);gbkey=tRNA;gene=valU;locus_tag=b2401;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	2521051	2521126	.	+	.	"ID=rna-b2402;Parent=gene-b2402;Dbxref=ASAP:ABE-0007916,ECOCYC:EG30113,GeneID:946817;Note=tRNA-Val(UAC);gbkey=tRNA;gene=valX;locus_tag=b2402;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	2521173	2521248	.	+	.	"ID=rna-b2403;Parent=gene-b2403;Dbxref=ASAP:ABE-0007918,ECOCYC:EG30114,GeneID:946870;Note=tRNA-Val(UAC);gbkey=tRNA;gene=valY;locus_tag=b2403;product=tRNA-Val"
+NC_000913.3	RefSeq	tRNA	2521253	2521328	.	+	.	"ID=rna-b2404;Parent=gene-b2404;Dbxref=ASAP:ABE-0007920,ECOCYC:EG30056,GeneID:946866;Note=tRNA-Lys(UUU);gbkey=tRNA;gene=lysV;locus_tag=b2404;product=tRNA-Lys"
+NC_000913.3	RefSeq	tRNA	2729369	2729444	.	-	.	"ID=rna-b2590;Parent=gene-b2590;Dbxref=ASAP:ABE-0008523,ECOCYC:EG30035,GeneID:947076;Note=tRNA-Glu(UUC);gbkey=tRNA;gene=gltW;locus_tag=b2590;product=tRNA-Glu"
+NC_000913.3	RefSeq	tRNA	2785762	2785837	.	-	.	"ID=rna-b2652;Parent=gene-b2652;Dbxref=ASAP:ABE-0008733,ECOCYC:G7387,GeneID:947163;Note=tRNA-Ile(CAU);gbkey=tRNA;gene=ileY;locus_tag=b2652;product=tRNA-Ile"
+NC_000913.3	RefSeq	tRNA	2817784	2817860	.	-	.	"ID=rna-b2691;Parent=gene-b2691;Dbxref=ASAP:ABE-0008856,ECOCYC:EG30013,GeneID:947150;Note=tRNA-Arg(ACG);gbkey=tRNA;gene=argQ;locus_tag=b2691;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	2818059	2818135	.	-	.	"ID=rna-b2692;Parent=gene-b2692;Dbxref=ASAP:ABE-0008858,ECOCYC:EG30019,GeneID:947171;Note=tRNA-Arg(ACG);gbkey=tRNA;gene=argZ;locus_tag=b2692;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	2818198	2818274	.	-	.	"ID=rna-b2693;Parent=gene-b2693;Dbxref=ASAP:ABE-0008860,ECOCYC:EG30018,GeneID:946596;Note=tRNA-Arg(ACG);gbkey=tRNA;gene=argY;locus_tag=b2693;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	2818473	2818549	.	-	.	"ID=rna-b2694;Parent=gene-b2694;Dbxref=ASAP:ABE-0008862,ECOCYC:EG30015,GeneID:947209;Note=tRNA-Arg(ACG);gbkey=tRNA;gene=argV;locus_tag=b2694;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	2818553	2818645	.	-	.	"ID=rna-b2695;Parent=gene-b2695;Dbxref=ASAP:ABE-0008864,ECOCYC:EG30095,GeneID:947173;Note=tRNA-Ser(GCU);gbkey=tRNA;gene=serV;locus_tag=b2695;product=tRNA-Ser"
+NC_000913.3	RefSeq	tRNA	2947387	2947463	.	+	.	"ID=rna-b2814;Parent=gene-b2814;Dbxref=ASAP:ABE-0009232,ECOCYC:EG30062,GeneID:947198;Note=tRNA-initiator Met(CAU);gbkey=tRNA;gene=metZ;locus_tag=b2814;product=tRNA-Met"
+NC_000913.3	RefSeq	tRNA	2947497	2947573	.	+	.	"ID=rna-b2815;Parent=gene-b2815;Dbxref=ASAP:ABE-0009234,ECOCYC:EG31117,GeneID:947292;Note=tRNA-initiator Met(CAU);gbkey=tRNA;gene=metW;locus_tag=b2815;product=tRNA-Met"
+NC_000913.3	RefSeq	tRNA	2947607	2947683	.	+	.	"ID=rna-b2816;Parent=gene-b2816;Dbxref=ASAP:ABE-0009236,ECOCYC:EG30060,GeneID:946037;Note=tRNA-initiator Met(CAU);gbkey=tRNA;gene=metV;locus_tag=b2816;product=tRNA-Met"
+NC_000913.3	RefSeq	tRNA	2998984	2999057	.	-	.	"ID=rna-b2864;Parent=gene-b2864;Dbxref=ASAP:ABE-0009405,ECOCYC:EG30037,GeneID:947343;Note=tRNA-Gly(CCC);gbkey=tRNA;gene=glyU;locus_tag=b2864;product=tRNA-Gly"
+NC_000913.3	RefSeq	tRNA	3110366	3110441	.	+	.	"ID=rna-b2967;Parent=gene-b2967;Dbxref=ASAP:ABE-0009738,ECOCYC:EG30065,GeneID:947463;Note=tRNA-Phe(GAA);gbkey=tRNA;gene=pheV;locus_tag=b2967;product=tRNA-Phe"
+NC_000913.3	RefSeq	tRNA	3215598	3215673	.	+	.	"ID=rna-b3069;Parent=gene-b3069;Dbxref=ASAP:ABE-0010076,ECOCYC:EG30046,GeneID:947558;Note=tRNA-Ile(CAU);gbkey=tRNA;gene=ileX;locus_tag=b3069;product=tRNA-Ile"
+NC_000913.3	RefSeq	tRNA	3318213	3318289	.	-	.	"ID=rna-b3171;Parent=gene-b3171;Dbxref=ASAP:ABE-0010420,ECOCYC:EG30061,GeneID:947678;Note=tRNA-initiator Met(CAU);gbkey=tRNA;gene=metY;locus_tag=b3171;product=tRNA-Met"
+NC_000913.3	RefSeq	tRNA	3322072	3322158	.	-	.	"ID=rna-b3174;Parent=gene-b3174;Dbxref=ASAP:ABE-0010434,ECOCYC:EG30050,GeneID:947505;Note=tRNA-Leu(GAG);gbkey=tRNA;gene=leuU;locus_tag=b3174;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	3423580	3423655	.	-	.	"ID=rna-b3273;Parent=gene-b3273;Dbxref=ASAP:ABE-0010742,ECOCYC:EG30103,GeneID:947770;Note=tRNA-Thr(GGU);gbkey=tRNA;gene=thrV;locus_tag=b3273;product=tRNA-Thr"
+NC_000913.3	RefSeq	tRNA	3426958	3427033	.	-	.	"ID=rna-b3276;Parent=gene-b3276;Dbxref=ASAP:ABE-0010748,ECOCYC:EG30009,GeneID:947772;Note=tRNA-Ala(UGC);gbkey=tRNA;gene=alaU;locus_tag=b3276;product=tRNA-Ala"
+NC_000913.3	RefSeq	tRNA	3427076	3427152	.	-	.	"ID=rna-b3277;Parent=gene-b3277;Dbxref=ASAP:ABE-0010750,ECOCYC:EG30044,GeneID:947778;Note=tRNA-Ile(GAU);gbkey=tRNA;gene=ileU;locus_tag=b3277;product=tRNA-Ile"
+NC_000913.3	RefSeq	tRNA	3708616	3708692	.	-	.	"ID=rna-b3545;Parent=gene-b3545;Dbxref=ASAP:ABE-0011579,ECOCYC:EG30066,GeneID:948061;Note=tRNA-Pro(CGG);gbkey=tRNA;gene=proK;locus_tag=b3545;product=tRNA-Pro"
+NC_000913.3	RefSeq	tRNA	3836222	3836316	.	+	.	"ID=rna-b3658;Parent=gene-b3658;Dbxref=ASAP:ABE-0011956,ECOCYC:EG30092,GeneID:948167;Note=tRNA-Sec(UCA);gbkey=tRNA;gene=selC;locus_tag=b3658;product=tRNA-Sec"
+NC_000913.3	RefSeq	tRNA	3943435	3943510	.	+	.	"ID=rna-b3757;Parent=gene-b3757;Dbxref=ASAP:ABE-0012281,ECOCYC:EG30033,GeneID:948271;Note=tRNA-Glu(UUC);gbkey=tRNA;gene=gltU;locus_tag=b3757;product=tRNA-Glu"
+NC_000913.3	RefSeq	tRNA	3946872	3946948	.	+	.	"ID=rna-b3760;Parent=gene-b3760;Dbxref=ASAP:ABE-0012287,ECOCYC:EG30023,GeneID:948276;Note=tRNA-Asp(GUC);gbkey=tRNA;gene=aspT;locus_tag=b3760;product=tRNA-Asp"
+NC_000913.3	RefSeq	tRNA	3946957	3947032	.	+	.	"ID=rna-b3761;Parent=gene-b3761;Dbxref=ASAP:ABE-0012289,ECOCYC:EG30105,GeneID:948275;Note=tRNA-Trp(CCA);gbkey=tRNA;gene=trpT;locus_tag=b3761;product=tRNA-Trp"
+NC_000913.3	RefSeq	tRNA	3982375	3982451	.	+	.	"ID=rna-b3796;Parent=gene-b3796;Dbxref=ASAP:ABE-0012399,ECOCYC:EG30017,GeneID:945107;Note=tRNA-Arg(CCG);gbkey=tRNA;gene=argX;locus_tag=b3796;product=tRNA-Arg"
+NC_000913.3	RefSeq	tRNA	3982509	3982585	.	+	.	"ID=rna-b3797;Parent=gene-b3797;Dbxref=ASAP:ABE-0012401,ECOCYC:EG30042,GeneID:948305;Note=tRNA-His(GUG);gbkey=tRNA;gene=hisR;locus_tag=b3797;product=tRNA-His"
+NC_000913.3	RefSeq	tRNA	3982606	3982692	.	+	.	"ID=rna-b3798;Parent=gene-b3798;Dbxref=ASAP:ABE-0012403,ECOCYC:EG30049,GeneID:948304;Note=tRNA-Leu(CAG);gbkey=tRNA;gene=leuT;locus_tag=b3798;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	3982735	3982811	.	+	.	"ID=rna-b3799;Parent=gene-b3799;Dbxref=ASAP:ABE-0012405,ECOCYC:EG30068,GeneID:948303;Note=tRNA-Pro(UGG);gbkey=tRNA;gene=proM;locus_tag=b3799;product=tRNA-Pro"
+NC_000913.3	RefSeq	tRNA	4037141	4037217	.	+	.	"ID=rna-b3852;Parent=gene-b3852;Dbxref=ASAP:ABE-0012581,ECOCYC:EG30043,GeneID:948339;Note=tRNA-Ile(GAU);gbkey=tRNA;gene=ileT;locus_tag=b3852;product=tRNA-Ile"
+NC_000913.3	RefSeq	tRNA	4037260	4037335	.	+	.	"ID=rna-b3853;Parent=gene-b3853;Dbxref=ASAP:ABE-0012584,ECOCYC:EG30008,GeneID:948337;Note=tRNA-Ala(UGC);gbkey=tRNA;gene=alaT;locus_tag=b3853;product=tRNA-Ala"
+NC_000913.3	RefSeq	tRNA	4168372	4168447	.	+	.	"ID=rna-b3969;Parent=gene-b3969;Dbxref=ASAP:ABE-0012993,ECOCYC:EG30032,GeneID:948465;Note=tRNA-Glu(UUC);gbkey=tRNA;gene=gltT;locus_tag=b3969;product=tRNA-Glu"
+NC_000913.3	RefSeq	tRNA	4175388	4175463	.	+	.	"ID=rna-b3976;Parent=gene-b3976;Dbxref=ASAP:ABE-0013011,ECOCYC:EG30102,GeneID:948476;Note=tRNA-Thr(UGU);gbkey=tRNA;gene=thrU;locus_tag=b3976;product=tRNA-Thr"
+NC_000913.3	RefSeq	tRNA	4175472	4175556	.	+	.	"ID=rna-b3977;Parent=gene-b3977;Dbxref=ASAP:ABE-0013013,ECOCYC:EG30107,GeneID:948474;Note=tRNA-Tyr(GUA);gbkey=tRNA;gene=tyrU;locus_tag=b3977;product=tRNA-Tyr"
+NC_000913.3	RefSeq	tRNA	4175673	4175747	.	+	.	"ID=rna-b3978;Parent=gene-b3978;Dbxref=ASAP:ABE-0013016,ECOCYC:EG30036,GeneID:948481;Note=tRNA-Gly(UCC);gbkey=tRNA;gene=glyT;locus_tag=b3978;product=tRNA-Gly"
+NC_000913.3	RefSeq	tRNA	4175754	4175829	.	+	.	"ID=rna-b3979;Parent=gene-b3979;Dbxref=ASAP:ABE-0013018,ECOCYC:EG30101,GeneID:948480;Note=tRNA-Thr(GGU);gbkey=tRNA;gene=thrT;locus_tag=b3979;product=tRNA-Thr"
+NC_000913.3	RefSeq	tRNA	4209774	4209849	.	+	.	"ID=rna-b4008;Parent=gene-b4008;Dbxref=ASAP:ABE-0013105,ECOCYC:EG30034,GeneID:948510;Note=tRNA-Glu(UUC);gbkey=tRNA;gene=gltV;locus_tag=b4008;product=tRNA-Glu"
+NC_000913.3	RefSeq	tRNA	4362551	4362626	.	-	.	"ID=rna-b4134;Parent=gene-b4134;Dbxref=ASAP:ABE-0013535,ECOCYC:EG30064,GeneID:948651;Note=tRNA-Phe(GAA);gbkey=tRNA;gene=pheU;locus_tag=b4134;product=tRNA-Phe"
+NC_000913.3	RefSeq	tRNA	4392360	4392435	.	+	.	"ID=rna-b4163;Parent=gene-b4163;Dbxref=ASAP:ABE-0013635,ECOCYC:EG30038,GeneID:948682;Note=tRNA-Gly(GCC);gbkey=tRNA;gene=glyV;locus_tag=b4163;product=tRNA-Gly"
+NC_000913.3	RefSeq	tRNA	4392472	4392547	.	+	.	"ID=rna-b4164;Parent=gene-b4164;Dbxref=ASAP:ABE-0013637,ECOCYC:EG30040,GeneID:948681;Note=tRNA-Gly(GCC);gbkey=tRNA;gene=glyX;locus_tag=b4164;product=tRNA-Gly"
+NC_000913.3	RefSeq	tRNA	4392583	4392658	.	+	.	"ID=rna-b4165;Parent=gene-b4165;Dbxref=ASAP:ABE-0013639,ECOCYC:EG30041,GeneID:948687;Note=tRNA-Gly(GCC);gbkey=tRNA;gene=glyY;locus_tag=b4165;product=tRNA-Gly"
+NC_000913.3	RefSeq	tRNA	4496405	4496489	.	+	.	"ID=rna-b4270;Parent=gene-b4270;Dbxref=ASAP:ABE-0013986,ECOCYC:EG30053,GeneID:948803;Note=tRNA-Leu(CAA);gbkey=tRNA;gene=leuX;locus_tag=b4270;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	4606079	4606165	.	-	.	"ID=rna-b4368;Parent=gene-b4368;Dbxref=ASAP:ABE-0014329,ECOCYC:EG30051,GeneID:948873;Note=tRNA-Leu(CAG);gbkey=tRNA;gene=leuV;locus_tag=b4368;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	4606200	4606286	.	-	.	"ID=rna-b4369;Parent=gene-b4369;Dbxref=ASAP:ABE-0014331,ECOCYC:EG30047,GeneID:948875;Note=tRNA-Leu(CAG);gbkey=tRNA;gene=leuP;locus_tag=b4369;product=tRNA-Leu"
+NC_000913.3	RefSeq	tRNA	4606315	4606401	.	-	.	"ID=rna-b4370;Parent=gene-b4370;Dbxref=ASAP:ABE-0014333,ECOCYC:EG30048,GeneID:948893;Note=tRNA-Leu(CAG);gbkey=tRNA;gene=leuQ;locus_tag=b4370;product=tRNA-Leu"
+NC_000913.3	RefSeq	misc_feature	1341745	1684248	.	+	.	between terA and terB
